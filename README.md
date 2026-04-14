@@ -1,6 +1,6 @@
-# Programacion3 TrabajosPracticos
+Programacion3 - TrabajosPracticos
 
-Programación III - Trabajos Prácticos
+
 Bienvenidos, soy Gabriel estudiante de la UTN. En este repositorio voy a ir subiendo todos los proyectos, ejercicios y entregas desarrollados a lo largo de la materia Programación III.
 
 📂 Estructura del Repositorio
