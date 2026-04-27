@@ -2,7 +2,7 @@ import { categorias } from "./data.js"
 
 function cargarCategorias(){
     const lista = document.getElementById("lista-categorias");
-    
+    //const categorias = ["Hamburguesas", "Pizzas", "Postres", "Bebidas"];
     categorias.forEach(categoria => {
         const li = document.createElement("li");
         const a = document.createElement("a");
